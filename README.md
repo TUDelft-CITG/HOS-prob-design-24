@@ -6,6 +6,15 @@ The website built by this repo is [here](https://tudelft-citg.github.io/HOS-prob
 
 The [website](https://ucsb-csw8.github.io/s22/) and [repo](https://github.com/ucsb-csw8/s22/)  for CSW8 at UCSB provided many useful examples for this site.
 
-Just the Docs [documentation](https://just-the-docs.github.io/just-the-docs/)
+For more information see Just the Docs [documentation](https://just-the-docs.github.io/just-the-docs/) and Just the Class [documentation](https://kevinl.info/just-the-class/). Note that the websites use [Kramdown](https://kramdown.gettalong.org/index.html), which should be checked when trying to do something that requires more than just basic Markdown.
 
-Just the Class [documentation](https://kevinl.info/just-the-class/)
+## Setup
+
+_Notes from April, 2024 setup on GitHub, which takes the old website (`23`) and uses the Ruby setup from `MUDE/website-23` on GitLab.
+
+Steps:
+- Created `Gemfile-local` for the local build (keeps `Gemfile` untouched for GitHub Pages to continue as-is)
+- Install with `bundle install --gemfile=Gemfile-local`
+- Build and serve with `bundle exec --gemfile=Gemfile-local jekyll serve` (in `build-local.sh`)
+
+**NOTE:** the dependencies from `MUDE/website-23` were removed because the local Ruby environment could not be resolved.

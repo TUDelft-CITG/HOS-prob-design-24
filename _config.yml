@@ -17,10 +17,21 @@ title: CIEM42X0
 tagline: CIEM42X0 Probabilistic Design
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
 author: Robert Lanzafame
-baseurl: '/HOS-prob-design-23' # the subpath of your site, e.g. /blog
+baseurl: '/HOS-prob-design-24' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "Gemfile-local",
+    "Gemfile-local.lock",
+    "LICENSE",
+    vendor,
+    "README.md",
+    "build-local.sh",
+    "build-page.sh",
+    "_config.yml.bak",
+  ]
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
