@@ -15,7 +15,7 @@ A number of instructors are involved in this unit. Your primary point of contact
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistants
+## Teaching Assistant
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

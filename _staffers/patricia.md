@@ -1,7 +1,7 @@
 ---
 name: Patricia Mares Nasarre
 role: Instructor
-email: Weeks 1-3, Extreme Value Analysis
+email: Extreme Value Analysis (Week 2)
 photo: patricia.jpg
 ---
 
