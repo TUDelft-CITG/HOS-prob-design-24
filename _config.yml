@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIEM42X0
+title: CIEM42X0 PD Unit
 tagline: CIEM42X0 Probabilistic Design
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
 author: Robert Lanzafame
@@ -44,17 +44,15 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   CIEM4210:
-    - 'https://brightspace.tudelft.nl/d2l/home/520138'
+    - 'https://brightspace.tudelft.nl/d2l/home/594923'
   CIEM4220:
-    - 'https://brightspace.tudelft.nl/d2l/home/520140'
+    - 'https://brightspace.tudelft.nl/d2l/home/594925'
   CIEM4230:
-    - 'https://brightspace.tudelft.nl/d2l/home/520142'
-  HOS book:
-    - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
-  ADK book:
-    - 'https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview'
+    - 'https://brightspace.tudelft.nl/d2l/home/594927'
+  # HOS book:
+  #   - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
 aux_links_new_tab: true
-footer_content: 'Robert Lanzafame &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Robert Lanzafame &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
