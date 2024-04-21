@@ -13,7 +13,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 } -->
 
-*This page shows the most recent announcement and the calendar. For more information visit the [Unit Information page](./info). Links to external sites are at top right (e.g., Brightspace, online textbook(s), etc).*
+*This page shows the most recent announcement and the schedule for the current week. For more information visit the [Unit Information page](./info) and/or the [Calendar](./calendar). Links to external sites are at top right (e.g., Brightspace, online textbook(s), etc).*
 
 <!-- Read the ["Getting Started" announcement]({{site.url}}{{ site.baseurl }}/announcements) to know what to do during the first week of class. -->
 <!--[Jump to the current week]({{ site.url }}{{ site.baseurl }}/calendar#week-1){: .btn .btn-blue }-->
@@ -23,10 +23,5 @@ seo:
 [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Calendar
-
-*See Calendar page for explanation of lecture halls, course structure and notation.*
-
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+{{ site.modules.first }}
+[Calendar (all weeks)](calendar.md){: .btn .btn-outline .fs-3 }
