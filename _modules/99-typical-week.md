@@ -29,5 +29,5 @@ The main goal for the week are provided in boxes like this: <br>
 Links to reading and study material are provided in boxes like this.<br>
 {: .content }
 
-Links to exercises are provided in boxes like this. The workshops that are to be turned in for a grade and feedback as part of the project portfolio use a button like this: <a href="x" target="_blank"><b>Project Portfolio</b></a>{: .label .label-red }<br> 
+Links to exercises are provided in boxes like this. The workshops that are to be turned in for a grade and feedback as part of the exercise portfolio use a button like this: <a href="x" target="_blank"><b>Portfolio</b></a>{: .label .label-red }<br> 
 {: .exercises }

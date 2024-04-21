@@ -49,13 +49,13 @@ Although each of these B modules look at a wide range of structures, there are a
 
 ### In-Class Sessions
 
-The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week (no meetings during week 3). All sessions on Tuesday start at 15:45 and end at 16:45. Sessions on Friday start at 9:45 and end at 12:30. Tuesday is a lecture format; Friday starts with a short introduction followed by workshop assignments completed in groups (laptop required) and finishes with a short discussion (participation required). Exercises and reading will be provided each week to complete at home (2 hours max) to prepare for the Friday sessions (homework is not turned in or graded). Workshops 2, 5 and 8 are turned in as part of the Project Portfolio and will receive feedback and a grade from the instructors. Contribution of the Probabilistic Design Unit workshops to the final module grade depends on which unit you are in (i.e., 4210, 4220, 4230).
+The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week (no meetings during week 3). All sessions on Tuesday start at 15:45 and end at 16:45. Sessions on Friday start at 9:45 and end at 12:30. Tuesday is a lecture format; Friday starts with a short introduction followed by workshop assignments completed in groups (laptop required) and finishes with a short discussion (participation required). Exercises and reading will be provided each week to complete at home (2 hours max) to prepare for the Friday sessions (homework is not turned in or graded). Workshops 2, 5 and 8 are turned in as part of the exercise portfolio and will receive feedback and a grade from the instructors. Contribution of the Probabilistic Design Unit workshops to the final module grade depends on which unit you are in (i.e., 4210, 4220, 4230).
 
 {{ site.modules.last }}
 
 ### Programming
 
-Programming in Python and use of a command line interface will be required to complete most of the workshops, and some (not all) homework exercises. We will build on concepts covered in MUDE and use GitHub (not GitLab) to receive and submit assignments. We will also introduce VS Code as an IDE rather than Jupyter Lab. Workshops that are part of the Project Portfolio will require a Markdown-formatted report to be included in the repository.
+Programming in Python and use of a command line interface will be required to complete most of the workshops, and some (not all) homework exercises. We will build on concepts covered in MUDE and use GitHub (not GitLab) to receive and submit assignments. We will also introduce VS Code as an IDE rather than Jupyter Lab. Workshops that are part of the exercise portfolio will require a Markdown-formatted report to be included in the repository.
 
 ### Assignments
 
