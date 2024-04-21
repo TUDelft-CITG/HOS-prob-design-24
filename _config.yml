@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CIEM42X0-PD
-tagline: CIEM42X0 Probabilistic Design
+tagline: CIEM42X0-PD Probabilistic Design
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
 author: Robert Lanzafame
 baseurl: '/HOS-prob-design-24' # the subpath of your site, e.g. /blog
@@ -87,3 +87,14 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+callouts:
+  learningobjectives:
+    title: Learning Objectives
+    color: green
+  content:
+    title: Content
+    color: purple
+  exercises:
+    title: Exercises
+    color: blue
