@@ -7,7 +7,7 @@ title: "Week 1: Introduction Unit CIEM42X0-PD and Reliablity-Based Design"
 
 Lecture
 : Introduction to unit
-  Reliability-based design principles
+  <br>Reliability-based design principles
   <br><em>Tuesday, 15:45-16:45, Hall 1.98</em>
 
 Homework
