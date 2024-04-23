@@ -19,6 +19,7 @@ description: Hydraulic and Offshore Structures track, Civil Engineering Program 
 author: Robert Lanzafame
 baseurl: '/HOS-prob-design-24' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+favicon_ico:: "favicon.ico"
 exclude:
   [
     "Gemfile",
