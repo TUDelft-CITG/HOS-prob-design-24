@@ -51,7 +51,7 @@ Although each of these B modules look at a wide range of structures, there are a
 
 The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week (no meetings during week 3). All sessions on Tuesday start at 15:45 and end at 16:45. Sessions on Friday start at 9:45 and end at 12:30. Tuesday is a lecture format; Friday starts with a short introduction followed by workshop assignments completed in groups (laptop required) and finishes with a short discussion (participation required). Exercises and reading will be provided each week to complete at home (2 hours max) to prepare for the Friday sessions (homework is not turned in or graded). Workshops 2, 5 and 8 are turned in as part of the exercise portfolio and will receive feedback and a grade from the instructors. Contribution of the Probabilistic Design Unit workshops to the final module grade depends on which unit you are in (i.e., 4210, 4220, 4230).
 
-{{ site.modules.first }}
+{{ site.modules[0] }}
 
 ### Programming
 
