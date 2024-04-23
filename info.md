@@ -89,7 +89,7 @@ Depending on your B module, you will work on a design-oriented project. Each of 
 
 ### Online Textbook
 
-_More information coming soon! We will build on book material from MUDE, but the final website and chapters are still being determined._
+The <a href="https://teachbooks.tudelft.nl/risk-reliability/intro.html" target="_blank">Risk and Reliability book</a> will be used (there is also a link at the top right of this website). This book will be updated weekly throughout Q4. Updates will be announced in-class. Note that there is a significant overlap in the content of this book with the <a href="https://mude.citg.tudelft.nl/book" target="_blank">MUDE book</a>.
 
 <!--
 
@@ -104,7 +104,7 @@ This book will be actively updated throughout the quarter; primarily with assign
 
 ### Other Material
 
-All topics we discuss build on what was covered in . Some of the chapters in the MUDE book are included in the <a href="https://teachbooks.tudelft.nl/risk-reliability/intro.html" target="_blank">Risk and Reliability book</a>.
+
 
 This unit replaced a 1st-year MSc course CIE4130 Probabilistic Design in the old curriculum. The lecture notes (14MB) can be downloaded <a href="https://surfdrive.surf.nl/files/index.php/s/acbbK9bZ2fAjOx1/download" attributes-list download>here</a>.  In particular, the chapters on structural reliability and system reliability may be interesting.
 
