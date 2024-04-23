@@ -6,10 +6,14 @@ description: Listing of course modules and topics.
 has_children: true
 ---
 # Calendar
-{:.no_toc}
 
-This page gives an overview of the in-class sessions, homework assignments and reading material. See the [About](about.md) page for more information about the unit.
+Use the links below or the sub-pages on the left side of this website to find an overview of the in-class sessions, homework assignments and reading material.
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+Here is another useful link to the [Unit Information page](about.md).
+
+The topics covered in each week are:
+
+- Week 1: Introduction, Unit overview
+- Week 2: Extreme Value Analysis
+- Weeks 3-5: Component Reliability
+- Weeks 6-8: System Reliability

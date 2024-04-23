@@ -45,6 +45,10 @@ Although each of these B modules look at a wide range of structures, there are a
 - A weekly lecture to cover theoretical aspects of each topic
 - A weekly workshop that will apply concepts to design cases
 
+### Weekly Topics
+
+Topics covered each week can be found via the [Calendar](./calendar.md) page.
+
 ## What We Will Do
 
 ### In-Class Sessions
@@ -59,7 +63,14 @@ Programming in Python and use of a command line interface will be required to co
 
 ### Assignments
 
-_More information coming soon!_
+The term **assignments** is used generally to refer to the following:
+- **Homework**: something you do at home that is meant to prepare you for the in-class sessions. Not required, but (obviously) strongly recommended.
+- **Workshops**: the in-class assignments we do on Friday. Three of them will be submitted for feedback (see [Assessment page](./assessment.md) for information on how this contributes to your module grade)
+- **Exercise Portfolio**: the collection of three Workshops that will be submitted for feedback.
+
+You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual.
+
+_Additional information about submitting assignments will come in Week 2._
 
 <!--
 

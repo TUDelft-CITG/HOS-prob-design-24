@@ -11,7 +11,7 @@ Lecture
   <br><em>Tuesday, 15:45-16:45, Hall 1.98</em>
 
 Homework
-: _Coming soon!_
+: Review exercises in textbook Chapter 1. Review MUDE materials for weeks 1.7 and 2.7.
 
 Workshop
 : _Coming soon!_
@@ -21,11 +21,13 @@ Workshop
 : None -->
 
 The main goals for this week are: <br>
-<i>1. _Coming soon!_</i> <br>
+<i>1. Understand the context and purpose of the three parts of the unit</i><br>
+<i>2. Solve a simple reliability problem (load and resistance)</i><br>
+<i>3. Remember the "stuff" we did in MUDE</i><br>
 {: .learningobjectives }
 
-_Coming soon!_<br>
+Read [Chapter 1 of the textbook](https://teachbooks.tudelft.nl/risk-reliability/prob-design/overview.html#){:target="_blank"} and **do the exercises.** Note that the textbook already includes some chapters from MUDE, but make sure you also review these two key chapters in the MUDE book, as will start using these concepts extensively in Week 2: [continuous distributions](https://mude.citg.tudelft.nl/book/probability/Reminder_intro.html) and [extreme value analysis](https://mude.citg.tudelft.nl/book/eva/intro.html).<br>
 {: .content }
 
- <a href="x" target="_blank"><em>Coming soon!</em></a><br>
+ Review the assignments from MUDE, particularly the workshops from <a href="https://mude.citg.tudelft.nl/course-files/Week_1_7/" target="_blank"><em>Project 11</em></a> and <a href="https://mude.citg.tudelft.nl/course-files/Week_2_7/" target="_blank"><em>Week 15</em></a>, as well as <a href="https://mude.citg.tudelft.nl/course-files/Project_4/" target="_blank"><em>Project 4</em></a> and <a href="https://mude.citg.tudelft.nl/course-files/Project_4/" target="_blank"><em>Project 11</em></a>.<br>
 {: .exercises }
