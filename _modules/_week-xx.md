@@ -1,13 +1,12 @@
 ---
-title: "Week 1: Introduction Unit CIEM42X0-PD and Reliablity-Based Design"
+title: "Week x: x"
 ---
 
 <!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
 <!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
 
 Lecture
-: Introduction to unit
-  Reliability-based design principles
+: _Coming soon!_
   <br><em>Tuesday, 15:45-16:45, Hall 1.98</em>
 
 Homework
