@@ -50,8 +50,10 @@ aux_links:
     - 'https://brightspace.tudelft.nl/d2l/home/594925'
   CIEM4230:
     - 'https://brightspace.tudelft.nl/d2l/home/594927'
-  # HOS book:
-  #   - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
+  CM Website:
+    - 'https://tudelft-citg.github.io/HOS-comp-mod-24/'
+  Online Textbook:
+    - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
 aux_links_new_tab: true
 footer_content: 'Robert Lanzafame &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
