@@ -62,6 +62,9 @@ The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week 
 During the 2023-24 academic year Collegerama is recorded via CIEM4220 Dams Dikes and Breakwaters, so the Probabilistic Design unit recordings will be mixed with the lectures from that unit. The list of all videos can be found [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}, and the links for each recording will be added to the weekly overview pages directly.
 
 <!-- - [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).<br> -->
+<!-- CIEM4220 2023-24: https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d?academicYear=2023-2024-ciem4220 -->
+<!-- Playlist: https://collegeramavideoportal.tudelft.nl/playlists/e6ce915d-31e3-4881-b4d0-ff128300e26e -->
+<!-- Lecture 1: https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d/?academicYear=2023-2024-ciem4220&playlistId=e6ce915d-31e3-4881-b4d0-ff128300e26e -->
 
 ### Programming
 
