@@ -57,6 +57,12 @@ The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week 
 
 {{ site.modules[0] }}
 
+#### Collegerama Recordings
+
+During the 2023-24 academic year Collegerama is recorded via CIEM4220 Dams Dikes and Breakwaters, so the Probabilistic Design unit recordings will be mixed with the lectures from that unit. The list of all videos can be found [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}, and the links for each recording will be added to the weekly overview pages directly.
+
+<!-- - [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).<br> -->
+
 ### Programming
 
 Programming in Python and use of a command line interface will be required to complete most of the workshops, and some (not all) homework exercises. We will build on concepts covered in MUDE and use GitHub (not GitLab) to receive and submit assignments. We will also introduce VS Code as an IDE rather than Jupyter Lab. Workshops that are part of the exercise portfolio will require a Markdown-formatted report to be included in the repository.
