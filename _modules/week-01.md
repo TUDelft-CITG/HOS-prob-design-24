@@ -14,7 +14,7 @@ Homework
 : Review exercises in textbook Chapter 1. Review MUDE materials for weeks 1.7 and 2.7.
 
 Workshop
-: Robert will introduce material in class. Questions and link to interactive notebook are [here](./workshop/01.md).
+: Robert will introduce material in class. Questions and link to interactive notebook are [here](./workshop/01).
   <br><em>Friday, 9:45-12:30, Hall 1.95</em>
 
 <!-- Holidays
