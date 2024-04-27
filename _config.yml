@@ -101,6 +101,9 @@ callouts:
   exercises:
     title: Exercises
     color: blue
+  warning:
+    title: Warning
+    color: red
 
 search:
   # Split pages into sections that can be searched individually
