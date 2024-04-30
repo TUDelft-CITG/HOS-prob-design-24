@@ -15,6 +15,7 @@ Homework
 
 Workshop
 : Robert will introduce material in class. Questions and link to interactive notebook are [here](./workshop/01).
+  <br>[Solution here](https://teachbooks.github.io/HOS-workbook/2024/workshop/01_solution.html#){:target="_blank"}
   <br><em>Friday, 9:45-12:30, Hall 1.95</em>
 
 <!-- Holidays
