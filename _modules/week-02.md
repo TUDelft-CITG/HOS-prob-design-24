@@ -26,7 +26,7 @@ The main goals for this week are:<br>
 {: .learningobjectives }
 
 [Reading in HOS Workbook (EVA section)](https://teachbooks.github.io/HOS-workbook/intro.html){:target="_blank"}<br>
-[Lecture Slides (PDF)](./assets/lecture_slides/01_lecture_part_2_design_context.pdf){:target="_blank"}<br>- [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/484826b216254b3b93b482dc9d26c2bc1d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"})
+[Lecture Slides (PDF)](./assets/lecture_slides/02_lecture_EVA.pdf){:target="_blank"}<br>- [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/484826b216254b3b93b482dc9d26c2bc1d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"})
 {: .content }
 
  Review your own Project 11 (Week 2.7) from MUDE (see your Group GitLab repository). The solution can be found [here](https://mude.citg.tudelft.nl/course-files/Project_11/){:target="_blank"}, make sure you read through it thoroughly!<br>
