@@ -77,9 +77,33 @@ The term **assignments** is used generally to refer to the following:
 - **Workshops**: the in-class assignments we do on Friday. Three of them will be submitted for feedback (see [Assessment page](./assessment.md) for information on how this contributes to your module grade)
 - **Exercise Portfolio**: the collection of three Workshops that will be submitted for feedback.
 
-You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual.
+Assignments will be provided via GitHub, and you will receive a link on the relevant page of this website for each assignment. You will need a GitHub account to access the assignments. If for some reason you do not want to create a GitHub account, please contact Robert directly.
 
-_Additional information about submitting assignments will come in Week 2._
+#### Grading
+
+The three workshops will each be given a grade of 0, 5, 7 or 9, along with qualitative feedback, via a Markdown file in your repository. The three grades will be averaged to determine the final grade for your Exercise Portfolio, and depending on your overall progress, the final value may be rounded up or down.
+
+You are generally expected to return answers in Markdown reports, similar to those used in MUDE. A good report includes judicious use of Markdown formatting (Latex equations, bold/italic font, etc), figures and tables to illustrate the answers to questions, as needed.
+
+In general, the grades correspond to:
+- **0 points**: did not submit, or did almost nothing in submission
+- **5 points**: made an attempt, but a significant portion is incomplete, or a significant misunderstanding of the material is apparent. Formatting of report is difficult to read and analysis is hard to follow, such that significant time is spent interpreting what you meant to say. Does not use figures, tables or Markdown formatting to illustrate results, or uses a minimal number ineffectively.
+- **7 points**: some errors or misconceptions, but generally acceptable results. Formatting of report is acceptable but not polished and/or concise. Figures and tables may be included, but formatting or purpose is not clear.
+- **9 points****: thorough understanding of material and interpretation of results is obvious. Report is concise and well-written, such that one can easily find the results and main conclusions of the group. 
+
+You are welcome to use an AI tool to help you write code or answers to the questions. However, please state that you do so (no points will be taken off). However, note that if you do _not_ state that you used an AI tool, _and_ you return code or answers that is obviously written by AI and it has not been proof-read to be relevant for the question asked, your grade will be reduced one or two levels, depending on severity. For example, if we ask you to define the assumption for a method and you return an AI paragraph that describes the importance of assumptions for reliability methods, your grade will be lowered one level. If you do this multiple times on an assignment, perhaps two levels.
+
+#### Groups
+
+You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual. For each assignment that is turned in, you will be asked to report your group members to Robert via email. Please include the following information in your email:
+- name of group
+- name of each group member
+- GitHub username of each group member
+- email of each group member
+
+Unless you send a new email for the next assignment that is turned in, we will assume your group has remained unchanged.
+
+Although the assignments are meant to be completed in class, this may not always be the case depending on your schedule. In case you have issues with your group members completing an assignment outside of class, or for any other reason, contact Robert immediately.
 
 <!--
 

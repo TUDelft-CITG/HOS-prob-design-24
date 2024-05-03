@@ -14,8 +14,7 @@ Homework
 : Review exercises in textbook Chapter 1. Review MUDE materials for weeks 1.7 and 2.7.
 
 Workshop
-: Robert will introduce material in class. Questions and link to interactive notebook are [here](./workshop/01).
-  <br>[Solution here](https://teachbooks.github.io/HOS-workbook/2024/workshop/01_solution.html#){:target="_blank"}
+: Robert will introduce material in class. Questions and link to interactive notebook are [here](https://tudelft-citg.github.io/HOS-prob-design-24/workshop/01). Solution [here](https://teachbooks.github.io/HOS-workbook/2024/workshop/01_solution.html#){:target="_blank"}
   <br><em>Friday, 9:45-12:30, Hall 1.95</em>
 
 <!-- Holidays
