@@ -54,6 +54,8 @@ aux_links:
     - 'https://tudelft-citg.github.io/HOS-comp-mod-24/'
   Online Textbook:
     - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
+  Workbook:
+    - 'https://teachbooks.github.io/HOS-workbook/intro.html'
 aux_links_new_tab: true
 footer_content: 'Robert Lanzafame &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
