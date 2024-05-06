@@ -146,6 +146,10 @@ This book will be actively updated throughout the quarter; primarily with assign
 
 -->
 
+### Workbook
+
+The <a href="https://teachbooks.github.io/HOS-workbook/intro.html" target="_blank">Workbook</a> is an online book (similar to the textbook above) that will be used to present various materials that don't quite fit in the textbook, for example: exercises, workshop assignments, solutions, miscellaneous teaching material, etc. This book will be updated throughout Q4. Updates will be announced in-class..
+
 ### Other Material
 
 
