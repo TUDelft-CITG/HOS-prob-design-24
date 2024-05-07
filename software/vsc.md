@@ -1,5 +1,5 @@
 ---
-title: Visual Studio Code (VSC)
+title: VS Code
 layout: page
 parent: Software
 nav_order: 2

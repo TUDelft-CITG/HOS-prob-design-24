@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Environments
 layout: page
 parent: Software
 nav_order: 2
@@ -26,7 +26,7 @@ Visit the [Python page for virtual environments](https://docs.python.org/3.11/li
 - A virtual environment is _considered disposable_
 - A virtual environment directory (`.venv`) should be _recreated_, _not_ moved or copied
 
-_Reread that, because it is important!_ It means that a `venv` is simply a set of files that you will set up, add to, and change frequently during the course of a project. Perhaps many of you have still been using your `mude` environment from Q1: since the pace of the most common Python libraries. However, other packages change their code base frequently, leading to problems with our code. Remember `pyvinecopulib` in Week 1.8? That package often causes problems because it depends on a number of libraries in the C programming language, which are very hardware-dependent (but also computationally efficient) - when using projects where package compatibility is known to be sensitive, it is much more reliable to plan using a new environment from the start, and `venv` is the quickest way to do that.
+_Reread that, because it is important!_ It means that a `venv` is simply a set of files that you will set up, add to, and change frequently during the course of a project. Perhaps many of you have still been using your `mude` environment from Q1: since the pace of the most common Python libraries. However, other packages change their code base frequently, leading to problems with our code. Remember `pyvinecopulib` in MUDE Week 1.8 this year? That package often causes problems because it depends on a number of libraries in the C programming language, which are very hardware-dependent (but also computationally efficient) - when using projects where package compatibility is known to be sensitive, it is much more reliable to plan using a new environment from the start, and `venv` is the quickest way to do that.
 
 ### Establish a working directory
 
@@ -53,14 +53,20 @@ StartingFrom your C drive...at a location NOT on a cloud server!^
     │   ├── 311               <-- for Python 3.11. Not a git repo*
 	│   └── ...               <-- maybe someday you use other versions
 
-^ It is generally not a good idea to store code on a cloud server like OneDrive, Dropbox, etc. In our applications in particular you will be "backing up" a lot of unnecessary files (all of the Python source code and packages!). 
+^ It is generally not a good idea to store code on a cloud server like
+  OneDrive, Dropbox, etc. In our applications in particular you will be
+  "backing up" a lot of unnecessary files (all of the Python source code
+  and packages!). 
 
-^^ WS01 backup: if you store WS01 in this directory, you should create your own GitHub repo to serve as a backup of your work, or move it to a backed up location on your computer, since this was not cloned from a CIE42X0-PD repo.
+^^ WS01 backup: if you store WS01 in this directory, you should create
+  your own GitHub repo to serve as a backup of your work, or move it to a
+  backed up location on your computer, since this was not cloned from a
+  CIE42X0-PD repo.
 ```
 
 ## Installing Python (Yes, again!)
 
-Remember that your environment also includes a specific version of Python (in our case, 3.11); this means you may have _many_ versions of Python installed on the same computer. The secret to effectively using virtual environments is organizing the Python source code properly; note in the file system diagram above that we reserved a place parallel to the working directories for this: `python_releases'.
+Remember that your environment also includes a specific version of Python (in our case, 3.11); this means you may have _many_ versions of Python installed on the same computer. The secret to effectively using virtual environments is organizing the Python source code properly; note in the file system diagram above that we reserved a place parallel to the working directories for this: `python_releases`.
 
 First you will have to download a specific version of Python:
 - Visit the Python downloads page at [python.org/downloads](https://www.python.org/downloads/){:target="_blank"}
@@ -73,7 +79,7 @@ First you will have to download a specific version of Python:
 Next we will install Python by opening the downloaded file, but pay careful attention to the instructions. Each page of the installer is described here, along with a screenshot:
 
 - Installation page
-	- uncheck "admin priv"
+	- uncheck "Use admin privelages..."
 	- choose custom install
 
 <figure>
@@ -159,6 +165,10 @@ pip install numpy scipy
 ```
 
 Note that this is a different package manager than Anaconda, so depending on your internet speed you may need to wait to download large packages. However, once you create other environments (i.e., for the next workshop), you will notice that the creation of new environments and installation of additional packages is _much_ faster than Anaconda!
+
+### What to do with the test environment?
+
+Remember those bullet points at the top of this page? Virtual environments are disposable, and should be created often, so let's delete this one! See the commands in the next section to deactivate, then delete, the environment.
 
 ## Summary of Commands and Workflow:
 

@@ -25,7 +25,7 @@ Starting in Week 3, we add two new software tools (as well as a new package, OPE
 - Common IDE's
 - VS Code
 
-Once you get through the set up described on these two pages, the expectation for future assignments (and most of your MSc work) is as follows:
+Once you get through the set up described on the [Environments](./software/environments) and [VS Code](./software/vsc) pages, the expectation for future assignments (and most of your MSc work) is as follows:
 - create a working directory (ideally clone or create a git repo)
 - define a requirements file
 - create a `venv`
