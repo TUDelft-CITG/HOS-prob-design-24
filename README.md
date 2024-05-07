@@ -18,3 +18,7 @@ Steps:
 - Build and serve with `bundle exec --gemfile=Gemfile-local jekyll serve` (in `build-local.sh`)
 
 **NOTE:** the dependencies from `MUDE/website-23` were removed because the local Ruby environment could not be resolved.
+
+
+ruby --version
+ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x64-mingw-ucrt]
