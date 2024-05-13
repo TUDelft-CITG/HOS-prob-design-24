@@ -6,7 +6,7 @@ title: "Week 2: Extreme Value Analysis"
 <!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
 
 Lecture
-: Extreme Value Analysis ([Slides](./assets/lecture_slides/02_lecture_EVA.pdf){:target="_blank"})
+: Extreme Value Analysis ([Slides](assets/lecture_slides/02_lecture_EVA.pdf){:target="_blank"})
   <br><em>Tuesday, 15:45-16:45, Hall 1.98</em>
 
 Homework
