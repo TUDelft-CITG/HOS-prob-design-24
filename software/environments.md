@@ -50,7 +50,7 @@ StartingFrom your C drive...at a location NOT on a cloud server!^
 	│   ├── WS03              <-- a git repo, also on GitHub Classroom
 	│   └── ...
 	├── python_releases       <-- described in next section
-    │   ├── 311               <-- for Python 3.11. Not a git repo^
+	│   ├── 311               <-- for Python 3.11. Not a git repo^
 	│   └── ...               <-- maybe someday you use other versions
 
 ^ It is generally not a good idea to store code on a cloud server like
