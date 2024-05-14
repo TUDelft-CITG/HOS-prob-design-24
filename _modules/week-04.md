@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Extreme Value Analysis"
+title: "Week 4: Component Reliability"
 ---
 
 Lecture
