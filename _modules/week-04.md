@@ -6,7 +6,7 @@ Lecture
 : Component reliability introduction, based on [material in workbook](https://teachbooks.github.io/HOS-workbook/intro.html){:target="_blank"}. Note that there were no slides; use the workbook material and the Collegerama recroding to review. [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/cc0a6b5255014de6ad755b4f5f72660d1d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).
 
 Workshop
-: A component reliability problem.
+: [WS04](https://classroom.github.com/a/fDKbZqwI){:target="_blank"} is about a component reliability problem.
 
 <!-- Holidays
 : None -->
