@@ -6,7 +6,7 @@ Lecture
 : Recap of WS04. Interpretation of component reliability analysis, and presentation of results.
 
 Workshop
-: WS05 will apply component reliability techniques to an existing deterministic problem.
+: WS05 will apply component reliability techniques to an existing deterministic problem and report the results. **This workshop is turned in for feedback/grading** (should be possible to finish in class on Friday, but you have until Tuesday, May 28 at 4:00 AM to submit it; you can choose your own groups).
 
 <!-- Holidays
 : None -->
