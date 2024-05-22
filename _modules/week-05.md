@@ -3,10 +3,10 @@ title: "Week 5: Component Reliability (continued)"
 ---
 
 Lecture
-: Recap of WS04. Interpretation of component reliability analysis, and presentation of results.
+: Recap of WS04. Interpretation of component reliability analysis. Note that there were no slides; we used the solution to WS04 (especially the [graphical interpretation](https://teachbooks.github.io/HOS-workbook/2024/workshop/04/analysis.html#task-7-graphical-interpretation){:target="_blank"}. To review and prepare for WS05, use the workbook material ([FORM page here](https://teachbooks.github.io/HOS-workbook/2024/component/form.html#)) and the [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/815be2824bc54b3ab3b9773f3c0f25f01d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).
 
 Workshop
-: WS05 will apply component reliability techniques to an existing deterministic problem and report the results. **This workshop is turned in for feedback/grading** (should be possible to finish in class on Friday, but you have until Tuesday, May 28 at 4:00 AM to submit it; you can choose your own groups).
+: WS05 will apply component reliability techniques to an existing deterministic problem (a FEM code) and report the results. **This workshop is turned in for feedback/grading** (should be possible to finish in class on Friday, but you have until Tuesday, May 28 at 4:00 AM to submit it; you can choose your own groups).
 
 <!-- Holidays
 : None -->
