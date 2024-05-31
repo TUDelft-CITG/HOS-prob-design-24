@@ -6,7 +6,7 @@ Lecture
 : Closure of component reliability, where we discussed the standard normal space a bit further and importance factors. Insight provided into the fact that the definition of the importance factors is different, depending on the software you use. This is partially covered in the Workbook on the [FORM](https://teachbooks.github.io/HOS-workbook/2024/component/form.html#) and [FORM/MCS comparison](https://teachbooks.github.io/HOS-workbook/2024/component/mcs_form.html#) pages (theoretical derivations can also be found in the textbooks). Otherwise, view the [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/cb0595f421fb431db34c7782cb54aba31d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).
 
 Workshop
-: WS06 will cover Fault Trees as an approach for solving system reliability problems. There is no Git repository for this workshop.
+: WS06 will cover Fault Trees as an approach for solving system reliability problems. Files can be found in the Workbook [here](https://teachbooks.github.io/HOS-workbook/2024/workshop/06.html), and a brief introduction to Fault Trees is provided [here](https://teachbooks.github.io/HOS-workbook/system/2024/fault_tree.html){:target="_blank"}; there is no Git repository for this workshop.
 
 <!-- Holidays
 : None -->
