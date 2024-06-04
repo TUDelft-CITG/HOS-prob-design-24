@@ -1,5 +1,5 @@
 ---
-title: "Week 6: System Reliability"
+title: "Week 7: System Reliability, Part 2"
 ---
 
 Lecture
